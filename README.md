@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Todo List | Odin project
+- 🔭 I’m currently working on Frontend features | Hallmonitor
 - 🌱 I’m currently learning Advanced JavaScript | Odin project
 - 🤔 I’m looking for help with everythink you think could be improved.
 - 💬 Ask me about Java, HTML, CSS, JavaScript, MySQL, PHP, Linux and other tech stuff.
